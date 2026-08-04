@@ -8,3 +8,10 @@ site/
 secrets/
 config.toml
 mitm_logs
+.env
+.env.*
+*.env
+credentials.json
+*.pem
+*.key
+.credentials
